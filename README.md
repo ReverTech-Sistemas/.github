@@ -20,11 +20,11 @@ Evolução contínua — sempre melhorar 1% ao dia
 
 👥 Equipe Executiva
 👑 CEO — Steffany Kazik Sarmento Bassi
-Responsável pela liderança estratégica, visão global de produto, expansão e tomada de decisões de alto impacto.
+Responsável pela liderança estratégica, visão global de produto, expansão e tomada de decisões de alto impacto.<br>
 🧭 CPO — Wyllian Alison Martinez
-Responsável pela definição, qualidade e evolução contínua dos produtos da Revertech. Lidera visão funcional, experiência do cliente, priorização e alinhamento de roadmap.
+Responsável pela definição, qualidade e evolução contínua dos produtos da Revertech. Lidera visão funcional, experiência do cliente, priorização e alinhamento de roadmap.<br>
 🧩 CTO — Leonardo Vinnicius Lopes Ribas
-Responsável por toda a arquitetura técnica, inovação, infraestrutura, decisões tecnológicas e excelência de engenharia em todos os sistemas.
+Responsável por toda a arquitetura técnica, inovação, infraestrutura, decisões tecnológicas e excelência de engenharia em todos os sistemas.<br>
 
 🚀 Tecnologias que utilizamos
 Java 25 + Spring Boot
